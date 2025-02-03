@@ -1,6 +1,7 @@
 ### Oi, eu sou o Gustavo! 👋
 
-- 🖥️ Cloud Engineer with years of experience in various sectors, certified by leading technology companies such as Amazon, Microsoft, Google and Astronomer. Speaker at technology events in Brazil and abroad. Leads a Google community in Brazil, the GDG Cloud Brasília - part of Google Developer Groups global program. Has extensive experience in innovative data platform projects and multicloud environments throughout Latin America. Currently focused on Cloud FinOps and working as a technology and innovation specialist for Brazilian federal agencies, dedicated to promoting effective solutions for problems and fostering a culture of continuous transformation. In 2025, he will start studies at Thomas Edison State University. A new degree is coming! 
+- 🖥️ Extensive experience in diverse sectors with certifications from major tech companies (Amazon, Microsoft, Google, Astronomer). Proven ability to lead and foster community engagement as leader of a Google partner community in Brazil and active participant in programs such as Google Developer Groups, Innovators Hive, Google Cloud AI Trusted Tester, and GitHub Developer. Proficient in multiple programming languages and experienced in innovative data platform projects across Latin America. Speaker at technology events in Brazil and abroad. Currently specializing in Cloud FinOps and serving as a technology and innovation specialist for Brazilian federal autarchies, focused on solving complex problems and driving a culture of continuous transformation.
+
 
 ### 🚀 Skills  
 <div style="display: inline_block"> 
