@@ -2,7 +2,7 @@
 
 - 🖥️ Extensive experience in diverse sectors with certifications from major tech companies (Amazon, Microsoft, Google, Astronomer). Proven ability to lead and foster community engagement as leader of a Google partner community in Brazil and active participant in programs such as Google Developer Groups, Innovators Hive, Google Cloud AI Trusted Tester, and GitHub Developer. Proficient in multiple programming languages and experienced in innovative data platform projects across Latin America. Speaker at technology events in Brazil and abroad. Currently specializing in Cloud FinOps and serving as a technology and innovation specialist for Brazilian federal autarchies, focused on solving complex problems and driving a culture of continuous transformation.
 
-
+<!--
 ### 🚀 Skills  
 <div style="display: inline_block"> 
       <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -14,8 +14,8 @@
       <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> 
       <br>
-      <br>
-</div>
+      <br>-->
+<!-- </div>
 <div style="display:inline_block">
       <!--<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -25,7 +25,7 @@
       <img align="center" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
       <br>
       <br>
-</div>
+<!-- </div>
 <div style="display:inline_block">      
       <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">    
       <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -35,7 +35,7 @@
       <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> 
       <br>
       <br>
-</div>
+<!-- </div>
 <div style="display:inline_block">
       <!-- InterSystems badges made by Victor Goulart - http://www.victorgoulart.com/ -->
       <img align="center" src="https://svgshare.com/i/hQ1.svg">
@@ -45,7 +45,7 @@
       <img align="center" src="https://svgshare.com/i/hQ0.svg">
       <br>
       <br>
-</div>      
+<!-- </div>      
 <div style="display:inline_block">
       <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
@@ -66,8 +66,8 @@
       <img align="center" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
       <!--<img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">-->          
-</div>
-<br><br>
+<!-- </div>
+<br><br> -->
 
 ### 📉 Certifications
 <div style="display: inline_block">     
