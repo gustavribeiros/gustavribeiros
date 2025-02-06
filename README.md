@@ -6,8 +6,9 @@
 
 ### 📉 Certifications
 <div style="display: inline_block">     
-     <a href="#"> <img align="center"  src="https://i.imgur.com/NKhOJK9.png">
-     <a href="#"> <img align="center"  src="https://i.imgur.com/rmqRLT1.png">   
+     <a href="#"> <img align="center"  src="https://i.imgur.com/GFMSiZc.png">
+     <a href="#"> <img align="center"  src="https://i.imgur.com/o6ZzvAp.png">  
+         
       
  </div>
 
