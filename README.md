@@ -1,8 +1,15 @@
-### Oi, eu sou o Gustavo! 👋
+ ##### Oi, eu sou o Gustavo! 👋
 
-- 🖥️ Extensive experience in diverse sectors with certifications from major tech companies (Amazon, Microsoft, Google, Astronomer). Proven ability to lead and foster community engagement as leader of a Google partner community in Brazil and active participant in programs such as Google Developer Groups, Innovators Hive, Google Cloud AI Trusted Tester, and GitHub Developer. Proficient in multiple programming languages and experienced in innovative data platform projects across Latin America. Speaker at technology events in Brazil and abroad. Currently specializing in Cloud FinOps and serving as a technology and innovation specialist for Brazilian federal autarchies, focused on solving complex problems and driving a culture of continuous transformation.
++ ##### Distinguished Cloud Engineer and Technology Leader, possessing comprehensive expertise spanning multiple sectors, complemented by credentials from leading organizations including Amazon, IBM, GitHub, Microsoft, Google, and Astronomer.
++ ##### A frequent presenter at national and international technology symposia, I provide leadership within the technological sphere as the director of a Google licensee community in Brazil.
++ ##### My involvement includes active participation and contributions to global IT initiatives such as Google Developer Groups, Innovators Hive, Google Cloud AI Trusted Tester, Microsoft Student Ambassador, Microsoft 365 Insider, Google Cloud Arcade, GitHub Developer, FinOps Foundation, Astronomer Champion, and others. Speaking English and French has enabled me to deliver groundbreaking multi-platform initiatives across the Americas.
++ ##### Research and engineering in the areas of FinOps, Cloud, DevOps and AI are the focus of my professional efforts.
++ ##### Then there's my position as a technology and innovation specialist for Brazilian federal entities. In this role, I am dedicated to promoting effective problem solving and fostering an environment of continuous development within the public sector.
 
 
+🖥️🌐 [Visit my website here.](https://gustavosantosio.com/)
+
+---
 
 ### 📉 Certifications
 <div style="display: inline_block">     
