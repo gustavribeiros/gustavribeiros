@@ -1,10 +1,10 @@
- ##### Oi, eu sou o Gustavo! 👋
+ ### Oi, eu sou o Gustavo! 👋
 
-+ ##### Distinguished Cloud Engineer and Technology Leader, possessing comprehensive expertise spanning multiple sectors, complemented by credentials from leading organizations including Amazon, IBM, GitHub, Microsoft, Google, and Astronomer.
-+ ##### A frequent presenter at national and international technology symposia, I provide leadership within the technological sphere as the director of a Google licensee community in Brazil.
-+ ##### My involvement includes active participation and contributions to global IT initiatives such as Google Developer Groups, Innovators Hive, Google Cloud AI Trusted Tester, Microsoft Student Ambassador, Microsoft 365 Insider, Google Cloud Arcade, GitHub Developer, FinOps Foundation, Astronomer Champion, and others. Speaking English and French has enabled me to deliver groundbreaking multi-platform initiatives across the Americas.
-+ ##### Research and engineering in the areas of FinOps, Cloud, DevOps and AI are the focus of my professional efforts.
-+ ##### Then there's my position as a technology and innovation specialist for Brazilian federal entities. In this role, I am dedicated to promoting effective problem solving and fostering an environment of continuous development within the public sector.
++ ### Distinguished Cloud Engineer and Technology Leader, possessing comprehensive expertise spanning multiple sectors, complemented by credentials from leading organizations including Amazon, IBM, GitHub, Microsoft, Google, and Astronomer.
++ ### A frequent presenter at national and international technology symposia, I provide leadership within the technological sphere as the director of a Google licensee community in Brazil.
++ ### My involvement includes active participation and contributions to global IT initiatives such as Google Developer Groups, Innovators Hive, Google Cloud AI Trusted Tester, Microsoft Student Ambassador, Microsoft 365 Insider, Google Cloud Arcade, GitHub Developer, FinOps Foundation, Astronomer Champion, and others. Speaking English and French has enabled me to deliver groundbreaking multi-platform initiatives across the Americas.
++ ### Research and engineering in the areas of FinOps, Cloud, DevOps and AI are the focus of my professional efforts.
++ ### Then there's my position as a technology and innovation specialist for Brazilian federal entities. In this role, I am dedicated to promoting effective problem solving and fostering an environment of continuous development within the public sector.
 
 
 🖥️🌐 [Visit my website here.](https://gustavosantosio.com/)
