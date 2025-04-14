@@ -1,10 +1,27 @@
- ### Oi, eu sou o Gustavo! 👋
+🚀 Let me introduce myself!
 
-+ ### Distinguished Cloud Engineer and Technology Leader, possessing comprehensive expertise spanning multiple sectors, complemented by credentials from leading organizations including Amazon, IBM, GitHub, Microsoft, Google, and Astronomer.
-+ ### A frequent presenter at national and international technology symposia, I provide leadership within the technological sphere as the director of a Google licensee community in Brazil.
-+ ### My involvement includes active participation and contributions to global IT initiatives such as Google Developer Groups, Innovators Hive, Google Cloud AI Trusted Tester, Microsoft Student Ambassador, Microsoft 365 Insider, Google Cloud Arcade, GitHub Developer, FinOps Foundation, Astronomer Champion, and others. Speaking English and French has enabled me to deliver groundbreaking multi-platform initiatives across the Americas.
-+ ### Research and engineering in the areas of FinOps, Cloud, DevOps and AI are the focus of my professional efforts.
-+ ### Then there's my position as a technology and innovation specialist for Brazilian federal entities. In this role, I am dedicated to promoting effective problem solving and fostering an environment of continuous development within the public sector.
+I'm Gustavo Santos, a Cloud Data Engineer with over 9 years of experience designing and orchestrating smart pipelines, multicloud architectures, and automation solutions with purpose.
+
+Currently, I work with GCP, Airflow (Astronomer), Tekton, Terraform, BigQuery, Dataflow, Azure, and AWS — delivering robust data solutions across industries such as automotive, finance, healthcare, and justice.
+
+📌 My specialties include:
+
+Large-scale data engineering and pipeline orchestration
+
+Event-driven architectures and process automation
+
+REST APIs integration and storage data access
+
+FinOps strategy, DevOps best practices, and governance
+
+Machine Learning, Deep Learning and Reinforcement Learning 
+
+Beyond engineering, I'm an active Google Developer Group (GDG) community orgnaizer, organizing events, mentoring, and workshops to democratize tech knowledge and inspire the next generation of builders. 💡
+
+I believe technology should be a bridge, not a barrier — and I strive to connect people, data, and innovation with impact.
+
+If you share that mindset, let’s connect! 🤝
+#DataEngineering #CloudComputing #GCP #Airflow #Automation #FinOps #DevOps #TechCommunity #Mentorship #GDG #DataOps #CloudNative
 
 
 🖥️🌐 [Visit my website here.](https://gustavosantosio.com/)
