@@ -1,10 +1,10 @@
-🚀 Let me introduce myself!
+### 🚀 Let me introduce myself!
 
 I'm Gustavo Santos, a Cloud Data Engineer with over 9 years of experience designing and orchestrating smart pipelines, multicloud architectures, and automation solutions with purpose.
 
 Currently, I work with GCP, Airflow (Astronomer), Tekton, Terraform, BigQuery, Dataflow, Azure, and AWS — delivering robust data solutions across industries such as automotive, finance, healthcare, and justice.
 
-📌 My specialties include:
+### 📌 My specialties include:
 
 Large-scale data engineering and pipeline orchestration
 
@@ -18,7 +18,7 @@ Machine Learning, Deep Learning and Reinforcement Learning
 
 Beyond engineering, I'm an active Google Developer Group (GDG) community orgnaizer, organizing events, mentoring, and workshops to democratize tech knowledge and inspire the next generation of builders. 💡
 
-I believe technology should be a bridge, not a barrier — and I strive to connect people, data, and innovation with impact.
+#### ***I believe technology should be a bridge, not a barrier — and I strive to connect people, data, and innovation with impact.***
 
 If you share that mindset, let’s connect! 🤝
 #DataEngineering #CloudComputing #GCP #Airflow #Automation #FinOps #DevOps #TechCommunity #Mentorship #GDG #DataOps #CloudNative
