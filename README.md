@@ -18,7 +18,7 @@ Machine Learning, Deep Learning and Reinforcement Learning
 
 Beyond engineering, I'm an active Google Developer Group (GDG) community orgnaizer, organizing events, mentoring, and workshops to democratize tech knowledge and inspire the next generation of builders. 💡
 
-#### ***I believe technology should be a bridge, not a barrier — and I strive to connect people, data, and innovation with impact.***
+### ***I believe technology should be a bridge, not a barrier — and I strive to connect people, data, and innovation with impact.***
 
 If you share that mindset, let’s connect! 🤝
 #DataEngineering #CloudComputing #GCP #Airflow #Automation #FinOps #DevOps #TechCommunity #Mentorship #GDG #DataOps #CloudNative
