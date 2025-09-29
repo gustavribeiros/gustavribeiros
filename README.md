@@ -1,4 +1,4 @@
-# Oi! Hello! Salut! ✨
+## Oi! Hello! Salut! ✨
 ### Cloud Engineer | Data Engineer | International Speaker | GDG Organizer |
 ---
 
@@ -14,7 +14,7 @@ I believe that technology should be a bridge, not a barrier. My goal is to conne
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
