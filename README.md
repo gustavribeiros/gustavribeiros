@@ -16,7 +16,7 @@ Sou um Engenheiro de Dados Cloud com mais de 10 anos de experiência, apaixonado
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,terraform,ansible,git,github,githubactions,python,fediverse,flask,go, openshift,pytorch,redhat" />
+    <img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,terraform,ansible,git,github,githubactions,python,fediverse,flask,go,openshift,pytorch,redhat,tensorflow,sklearn,fastapi" />
   </a>
 </p>
 
